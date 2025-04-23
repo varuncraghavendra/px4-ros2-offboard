@@ -10,3 +10,6 @@ https://github.com/sidharthmohannair/Installing-QGroundControl-on-Ubuntu-ARM64-u
 pip3 install 'empy==3.3.4' --force-reinstall
 
 flatpak run --device=all org.mavlink.qgroundcontrol
+
+export LIBGL_ALWAYS_SOFTWARE=1
+export LIBGL_ALWAYS_SOFTWARE=1
