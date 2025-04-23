@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=aVsTqPDTeYI
 https://github.com/sidharthmohannair/Installing-QGroundControl-on-Ubuntu-ARM64-using-Flatpak
 
 pip3 install 'empy==3.3.4' --force-reinstall
+
+flatpak run --device=all org.mavlink.qgroundcontrol
